@@ -1,0 +1,15 @@
+{
+  "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
+  "name": "mysql-benchmarks",
+  "description": "Some benchmarks comparing node-mysql to other libraries.",
+  "version": "0.0.0",
+  "dependencies": {
+    "lorem-ipsum": "0.0.7",
+    "mysql": "~2.0.0-alpha3"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
