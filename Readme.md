@@ -26,8 +26,7 @@ post records for you.
 To run a benchmark, do:
 
 ```
-./benchmark.js mysql
+./run.js benchmarks/node-mysql-2.0.0-alpha3.js
 ```
 
-Where `mysql` is the name of the benchmark you want to run (see benchmarks
-folder).
+See the benchmarks folder for available benchmarks.
